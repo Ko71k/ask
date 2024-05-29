@@ -1,0 +1,9 @@
+@import "commonstyle.css";
+
+.form {
+    padding-right: 15px;
+}
+
+.post-text {
+    height: 250px;
+}
